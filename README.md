@@ -1,4 +1,4 @@
-# jokempo
+# Jokempo
 Este é um jogo simples de Pedra, Papel e Tesoura em Ruby que permite que o usuário escolha entre Pedra, Papel ou Tesoura e, em seguida, jogue contra o computador.
 
 ## version 1
